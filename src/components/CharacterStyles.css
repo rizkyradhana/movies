@@ -1,0 +1,10 @@
+.movies-container {
+  height: 80vh;
+  width: 100%;
+  padding: 4rem;
+}
+
+.card {
+  height: auto;
+  width: 300px;
+}
